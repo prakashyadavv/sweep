@@ -1,0 +1,4 @@
+Supose there is a frontend screen in react, it is a form , first field is dropdown which is ACTION (Create,Amend) , 2nd. From Accunt ,3.Sweep Day , 4. To Account , 5.Resultant Balance , 6. drop down which is STATUS(Active / Inactive) .... there is a button Transmit ,, after filling details .. i will hit transmit ..give me the react code.. and give me springboot code how it will handle in backend..just receive the data and put it in a table .... table field is INST_NO(3) , FROM_ACCT _NO(10) ,SWEEP_DAY(1), TO_ACCT_NO(10) , RESULTANT_BAL(17) , SWEEP_STATUS(1)
+
+
+
